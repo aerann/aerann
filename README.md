@@ -3,7 +3,7 @@
 ##### A bit about me: 
 - 🎒 A third-year Software Engineering student at McMaster University
 - 🌴 Interested in Full-Stack development and DevOps
-- 🚵‍♀️ I spend my free time learning pieces on the piano, biking, and researching new switches for my keyboard :) 
+- 🚵‍♀️ I spend my free time learning pieces on the piano, biking, and spending too much money on keyboard parts :(
 
 ##### Feel free to contact me!
 <a href="shia15@mcmaster.ca">

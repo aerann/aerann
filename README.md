@@ -1,8 +1,8 @@
 ### Hi! I'm Ann👋
 
 ##### A bit about me: 
-- 🎒 A third-year software engineering student at McMaster University
-- 🌴 Interested in full-stack development and DevOps
+- 🎒 A third-year Software Engineering student at McMaster University
+- 🌴 Interested in Full-Stack development and DevOps
 - 🚵‍♀️ I spend my free time learning pieces on the piano, biking, and researching new switches for my keyboard :) 
 
 ##### Feel free to contact me!

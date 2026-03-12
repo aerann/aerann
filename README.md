@@ -1,14 +1,13 @@
-### Hi! I'm Ann👋
+## hi! i'm ann ⋆˙⟡
 
-##### A bit about me: 
-- 🎒 A third-year Software Engineering student at McMaster University
-- 🌴 Interested in Full-Stack development and DevOps
-- 🚵‍♀️ I spend my free time learning pieces on the piano, biking, and spending too much money on keyboard parts :(
+### a bit about me...
 
-##### Feel free to contact me!
-<a href="shia15@mcmaster.ca">
-  <img align="left" alt="Ann's email" width="20px" src="https://simpleicons.now.sh/gmail/495f7e" />
-</a>
-<a href="https://www.linkedin.com/in/annshi1/">
-  <img align="left" alt="Ann's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
+i am currently in my final year of software engineering at mcmaster university. i deeply care about creating an impact and being intentional with the work that i do. previously, i've completed interships as a software engineer at autodesk, bmo capital markets, and rbc. 
+
+---
+
+### feel free to contact me!
+
+⟡ [email](mailto:shia15@mcmaster.ca)  
+⟡ [linkedin](https://www.linkedin.com/in/annshi1/)
+

@@ -2,7 +2,7 @@
 
 ### a bit about me...
 
-i am currently in my final year of software engineering at mcmaster university. i deeply care about creating an impact and being intentional with the work that i do. previously, i've completed interships as a software engineer at autodesk, bmo capital markets, and rbc. 
+i am currently in my final year of software engineering at mcmaster university. i deeply care about creating an impact and being intentional with the work that i do. previously, i've completed internships as a software engineer at autodesk, bmo capital markets, and rbc. 
 
 ---
 
